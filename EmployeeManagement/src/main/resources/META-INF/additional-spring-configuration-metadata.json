@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "jwt.auth.app",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.app'"
+  },
+  {
+    "name": "jwt.auth.secret_key",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.secret_key'"
+  },
+  {
+    "name": "jwt.auth.expires_in",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.expires_in'"
+  }
+]}
